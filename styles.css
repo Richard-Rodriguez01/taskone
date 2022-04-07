@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    font-family: sans-serif;
+  }
+
+ #input{
+    padding: 2rem;
+    margin: 2rem;
+    width: fit-content;
+    font-size: 18px;
+    color: rgba(191, 41, 7, 0.765);
+    border-radius: 21px;
+    background: #e0e0e0;
+    box-shadow:  26px 26px 51px #cccccc,
+                -26px -26px 51px #f4f4f4;
+ }
+ #output{
+   width: fit-content;
+   margin: 2rem;
+  padding: 2rem;
+  font-size: 18px;
+  color: rgba(7, 191, 50, 0.765);
+  border-radius: 21px;
+  background: #e0e0e0;
+  box-shadow:  26px 26px 51px #cccccc,
+              -26px -26px 51px #f4f4f4;
+ }
+  
+  
